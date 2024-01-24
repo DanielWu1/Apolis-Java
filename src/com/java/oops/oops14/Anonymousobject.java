@@ -22,8 +22,6 @@ public class Anonymousobject {
     public static void main(String[] args) {
         new Car("Tesla Model 3", "Red", 2021).displayCarInfo();
 
-        // The following will create a separate Car object and display its information.
-        // Since it's an anonymous object, its reference is not stored.
         new Car("Ford Mustang", "Blue", 2020).displayCarInfo();
 
         // This demonstrates the use of an anonymous object.

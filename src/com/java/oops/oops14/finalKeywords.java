@@ -1,10 +1,8 @@
 package com.java.oops.oops14;
 
 final class Vehicle {
-    // Final instance variable
     private final String model;
 
-    // Blank final static variable
     private static final int MAX_SPEED;
 
     static {
