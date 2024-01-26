@@ -1,4 +1,4 @@
-package com.java.Multithreading.Nultithreading3;
+package com.java.Multithreading.Multithreading3;
 
 public class VolatileImplement {
     private volatile boolean flag = false;
